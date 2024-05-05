@@ -1,5 +1,5 @@
 Project: Lian Yu
-Authors: Seifeldin Abdelwahab
+Author: Seifeldin Abdelwahab
 
 
 To start this application, create an instance of class "Game" and call its
