@@ -10,3 +10,5 @@ This project was written as the starting point of a small Java project.
 _Save Yao Fei
 _Kill deathstroke
 _Save the city
+
+NICE
